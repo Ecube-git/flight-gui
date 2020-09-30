@@ -9,7 +9,7 @@ root = Tk()
 root.geometry("300x200")
 root.minsize(300,200)
 root.maxsize(300,200)
-root.title("D-Labz Aerospace Flight Deta Analwzer ")
+root.title("D-Labz Aerospace Flight Data Analyzer ")
 
 def Dark():
     os.system('cmd /k "dark.py"')
